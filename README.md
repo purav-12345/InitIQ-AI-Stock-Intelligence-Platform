@@ -34,7 +34,7 @@
 
 ## About the project
 
-**InitIQ** (originally documented as **Init.io**) is a full-stack stock-analysis and investment-research platform developed as a hackathon project. Its goal is to bring data exploration, technical indicators, machine-learning forecasts, conversational AI, and financial-report question answering into one interface.
+**InitIQ** is a full-stack stock-analysis and investment-research platform developed as a hackathon project. Its goal is to bring data exploration, technical indicators, machine-learning forecasts, conversational AI, and financial-report question answering into one interface.
 
 The repository is organized as a **React/Vite client** with several **Flask-based service directories**, allowing market data, predictions, AI chat, and PDF processing to be developed separately.
 
